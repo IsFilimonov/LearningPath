@@ -1,2 +1,5 @@
-This repository contains my learning pathway from 2021. I try to keep notes in a convenient form for me and for you. If you find them useful, give them a star and enjoy.
+This repository contains my learning pathway from 2021. I thought it would be helpful to keep notes in one place. I try to keep notes in a convenient form for me and for you. If you find them useful, give them a star and enjoy.
 
+Notes:
+- For best notebook rendering than standard GitHub, you may go to the [NbViewer](https://nbviewer.jupyter.org/).
+- I have to [convert](https://pdf2png.com/) PDF lectures to PNG, because Markdown can't handle PDFs.
