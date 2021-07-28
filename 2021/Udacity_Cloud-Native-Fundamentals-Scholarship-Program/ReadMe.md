@@ -1,0 +1,1 @@
+If you ask yourself why does he skip some chapters? Because some concepts do not contain useful information. That's it all. Some steps are introductions, some are quizzes. So don't worry about missing out on anything important.

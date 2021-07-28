@@ -3,3 +3,4 @@ This repository contains my learning pathway from 2021. I thought it would be he
 Notes:
 - For best notebook rendering than standard GitHub, you may go to the [NbViewer](https://nbviewer.jupyter.org/) (or [Binder](https://mybinder.org/) as you wish).
 - I have to [convert](https://pdf2png.com/) PDF lectures to PNG, because Markdown can't handle PDFs.
+- I draw diagrams using [draw.io](https://draw.io/).
