@@ -1,3 +1,5 @@
+[![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.jupyter.org/github/IsFilimonov/LearningPath/blob/main/2021/Stepik_Interactive-SQL-Simulator/)
+
 For high quality and fast notebook rendering I use a [Nbviewer](https://nbviewer.jupyter.org/).
 
 <a href="https://nbviewer.jupyter.org/github/IsFilimonov/LearningPath/blob/main/2021/Stepik_Interactive-SQL-Simulator/Chapter_1a.ipynb" 
