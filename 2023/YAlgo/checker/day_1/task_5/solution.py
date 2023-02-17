@@ -1,0 +1,4 @@
+import sys
+
+N = input()
+

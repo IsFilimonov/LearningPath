@@ -1,0 +1,8 @@
+size
+push 1
+size
+push 2
+size
+push 3
+size
+exit
